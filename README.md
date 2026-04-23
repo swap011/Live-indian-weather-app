@@ -30,5 +30,5 @@ pip install streamlit pandas requests
 3.Run the application
 streamlit run app.py
 
-RUN IT
-http://localhost:8501
+Run it on your browser
+example - http://localhost:8500
