@@ -26,6 +26,8 @@ Because this is a Streamlit application, it **cannot** be run inside a Jupyter N
 git clone https://github.com/<Your_GitHub_Username>/<Your_Repository_Name>.git
 cd <Your_Repository_Name>
 
+1. copy the (app.py) file code and run it
+
 2. Install the required dependencies
 pip install streamlit pandas requests
 
