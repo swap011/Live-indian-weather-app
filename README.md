@@ -21,8 +21,6 @@
 
 Because this is a Streamlit application, it **cannot** be run inside a Jupyter Notebook cell. It must be run from your command line/terminal.
 
-### 1. Clone the repository
-```bash
 git clone https://github.com/<Your_GitHub_Username>/<Your_Repository_Name>.git
 cd <Your_Repository_Name>
 
