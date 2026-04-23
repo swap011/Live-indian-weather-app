@@ -15,6 +15,8 @@
 - **[Requests](https://pypi.org/project/requests/):** For fetching data from the Open-Meteo REST API.
 - **[Pandas](https://pandas.pydata.org/):** For data structuring and map plotting.
 
+## **🌐 Live Demo:** [Click here to try the app live!](https://live-indian-weather-app-5dgunmkukbll9krwxfwg2u.streamlit.app/)
+
 ## 🚀 How to Run Locally
 
 Because this is a Streamlit application, it **cannot** be run inside a Jupyter Notebook cell. It must be run from your command line/terminal.
